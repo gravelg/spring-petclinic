@@ -311,6 +311,11 @@
 			<version>${dandelion.version}</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.3-1101-jdbc4</version>
+		</dependency>
 	</dependencies>
 
 	<dependencyManagement>
